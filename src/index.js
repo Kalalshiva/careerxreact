@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 
 
-import App23 from "./App23";
+import App29 from "./App29";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<App23/>);
+root.render(<App29/>);
