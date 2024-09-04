@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
-
-import App29 from "./App29";
+import { GoogleOAuthProvider } from '@react-oauth/google'
+import App39 from "./App40";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<App29/>);
+root.render(<App40/>);
